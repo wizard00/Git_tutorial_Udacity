@@ -1,0 +1,15 @@
+Like the video shows, it is very helpful to finding bugs, and fix them.
+
+Also I believe it is also very easy to redo changes in the code,
+which is a lot more convinence when coding
+
+2) it can let us look back what have changed, and to understand what is good
+change and what maybe not so good. It gave us a sense of progression and changes
+which we can look into
+
+3) Pro: each commit is meaningful, likely compilable. 
+Con: one may forget to commit and lose a version
+
+4) I think it depends on what is the purpose of that VC system. if its for coding like
+GIT, it is making sense that saving multiple files.
+However for google Doc, people usually work on one file. therefore separation is reasonable
